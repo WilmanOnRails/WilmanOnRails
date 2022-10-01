@@ -7,9 +7,11 @@
 - 💞️ I’m looking to collaborate on ...  My house
 - 📫 How to reach me ... caracol293@gmail.com
 
-<img align = "center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+![](https://github.com/WilmanOnRails/WilmanOnRails/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
+<p><img align = "center" alt="coding" width="500" height="400" src="https://github.com/WilmanOnRails/WilmanOnRails/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
 
-![193422929-0c20dfb1-cc74-4f53-8941-5bce17dc0414](https://user-images.githubusercontent.com/104475915/193422983-de4ba461-5565-4369-bd74-c82109573a3d.gif)
+
+
 
 
 ## Estadisticas
@@ -17,9 +19,11 @@
 ![Wilman's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilmanOnRails&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)
 
 ## Lenguajes
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmanOnRails&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
 
 
 
