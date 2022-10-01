@@ -7,10 +7,11 @@
 - 💞️ I’m looking to collaborate on ...  My house
 - 📫 How to reach me ... caracol293@gmail.com
 
-![](https://github.com/WilmanOnRails/WilmanOnRails/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
+![grab-landing-page](https://github.com/WilmanOnRails/WilmanOnRails/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
+
 <p><img align = "center" alt="coding" width="500" height="400" src="https://github.com/WilmanOnRails/WilmanOnRails/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
 
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
 
