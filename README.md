@@ -9,6 +9,9 @@
 
 <img align = "center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+![193422929-0c20dfb1-cc74-4f53-8941-5bce17dc0414](https://user-images.githubusercontent.com/104475915/193422983-de4ba461-5565-4369-bd74-c82109573a3d.gif)
+
+
 ## Estadisticas
 <!---recuerda que tienes puesto los commits totales en true para no ver el año en el que estas(2022)--->
 ![Wilman's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilmanOnRails&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)
