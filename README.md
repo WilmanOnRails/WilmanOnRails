@@ -1,7 +1,7 @@
 
-<h1 align="center">¡Hola!,
+<h1 align="center">¡Hello World!,
 <img align = "center" alt="coding" width="50" height="50" src="https://user-images.githubusercontent.com/104475915/193430817-d8bb158c-6579-4cdb-83f9-ce39f57a132d.gif">
- Mi nombre es Wilman </h1>
+ Soy Wilman </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wilmanonrails&label=Profile%20views&color=0e75b6&style=flat" alt="wilmanonrails" /> </p>
 
 
