@@ -14,7 +14,7 @@
 - 🌱 Estudiando ingenieria para no morirme de hambre  
 - 🔞 18 años (ayuda no quiero seguir creciendo)
 - 📂 Trabanjando en el proyecto de la Tienda Perrona de Pcs
-- 🎸 Se tocar la fluata (tu fluata tambíen) y aprendiendo a tocar la guitarra 
+- ✨ Copiar y Pegar es mi pasión
 - 💀 Ya no se que mas poner lmao
 
 ## Estadisticas
