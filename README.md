@@ -10,7 +10,7 @@
 <img align = "right" alt="coding" width="400" height="220" src="https://github.com/WilmanOnRails/WilmanOnRails/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 💙🤍 Nicaraguense (por desgracia)
-- 💻 II Semestre de Ing. de Sistemas 
+- 💻 III Semestre de Ing. de Sistemas 
 - 🌱 Estudiando ingenieria para no morirme de hambre  
 - 🔞 18 años (ayuda no quiero seguir creciendo)
 - 📂 Trabanjando en el proyecto de la Tienda Perrona de Pcs
