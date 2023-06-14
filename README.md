@@ -30,7 +30,7 @@
 
 ## Proyectos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDarkGG&repo=ProyectoFinal&show_owner=true&theme=chartreuse-dark)](https://github.com/iDarkGG/ProyectoFinal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDarkGG&repo=ProyectoFinal2&show_owner=true&theme=chartreuse-dark)](https://github.com/iDarkGG/ProyectoFinal2)
 
 ## Mis Contribuciones
 ![snake gif](https://github.com/WilmanOnRails/WilmanOnRails/blob/output/github-contribution-grid-snake.svg)
