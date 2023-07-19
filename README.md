@@ -33,7 +33,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDarkGG&repo=ProyectoFinal2&show_owner=true&theme=chartreuse-dark)](https://github.com/iDarkGG/ProyectoFinal2)
 
 ## Mis Contribuciones
-<img alt="My contributions being ate by a snake" src="https://github.com/WilmanOnRails/WilmanOnRails/blob/output/github-contribution-grid-snake.svg"></img> 
+<img alt="My contributions being ate by a snake" src="https://github.com/WilmanOnRails/WilmanOnRails/blob/output/github-contribution-grid-snake-dark.svg"></img> 
 
 
 
